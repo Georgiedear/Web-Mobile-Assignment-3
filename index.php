@@ -16,12 +16,12 @@
   <body>
 
 <div class="container">
-        <div class="col-12 d-flex justify-content-center" style="background-color:#fff; padding-top:10px ">
+        <div class="col-12" style="background-color:#fff; padding-top:10px; text-align:center ">
                 <h1> Three Worlds </h1>
-        </div>
-        <div style="text-align:center">
                 <h5> The Three Recent Interactive Installations by Georgina Yeboah </h5>
+
         </div>
+       
 </div>
         
         <div style="margin-left: -5px">
@@ -38,19 +38,19 @@
 
                 <div id="PRISMPage">
 
-                    <iframe src="./prismBackground.php" class="w-100 border-0 p-0 m-0" style="height:300px"></iframe>
+                    <iframe src="./prismBackground.php" class="w-100 border-0 p-0 m-0" style="height:600px"></iframe>
 
                 </div>
 
                 <div id="OneThousandPage">
 
-                    <iframe src="./1000Page.php" class="w-100 border-0 p-0 m-0" style="height:300px;"></iframe>
+                    <iframe src="./1000Page.php" class="w-100 border-0 p-0 m-0" style="height:600px;"></iframe>
 
                 </div>
 
                 <div id="SequenciaPage">
                     
-                    <iframe src="./Sequencia.php" class="w-100 border-0 p-0 m-0" style="height:300px;"></iframe>
+                    <iframe src="./Sequencia.php" class="w-100 border-0 p-0 m-0" style="height:600px;"></iframe>
                 </div>
 
             </div>

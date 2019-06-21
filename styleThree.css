@@ -1,7 +1,11 @@
+/* <!-- THE FOLLOWING CSS CODE IS A SNIPPET FROM INFINITE SVG TRIANGLE FUSION BY ROB DiMAARZO CUSTOMISED 
+ADDED BY ME  -->
+<!-- https://freefrontend.com/css-animated-backgrounds/ --> */
 body {
   margin: 0;
   background-color:#fff;
   width: 100%;
+  height: 100%;
   position: relative;
   overflow: hidden;
 }
@@ -53,11 +57,11 @@ body {
 
 }
 
-#reveal_box {
+/* #reveal_box {
 margin-left: -45px;
 margin-right: -45px;
 
-}
+} */
 .shape:nth-child(11) {
   transform: translate(-50%, -25%);
   
