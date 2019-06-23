@@ -1,15 +1,4 @@
-
-  <head>
-  
-<link rel="stylesheet" href="styleThree.css">
-    <title>Georgina Yeboah: Three Worlds</title>
-
-  </head>
-<body>
-<div class="overlay"></div> 
-<div class="PrismContainer">
-
-    <!-- THE FOLLOWING CODE IS A SNIPPET FROM INFINITE SVG TRIANGLE FUSION BY ROB DiMAARZO -->
+  <!-- THE FOLLOWING CODE IS A SNIPPET FROM INFINITE SVG TRIANGLE FUSION BY ROB DiMAARZO -->
 <!-- https://freefrontend.com/css-animated-backgrounds/ -->
 <svg class="shape" viewBox="0 0 100 115" preserveAspectRatio="xMidYMin slice">
     <polygon points="" fill="none" stroke="hsl(0,10%,90%,0.5)" stroke-width="5">
@@ -838,5 +827,3 @@
     </polygon>
   </svg>
   
-</div>
-</body>
