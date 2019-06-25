@@ -6,7 +6,7 @@ body {
   width: 100%;
   height: 100%;
   position: relative;
-  overflow: scroll;
+  overflow: hidden;
   
 
 }
@@ -68,6 +68,7 @@ body {
   font-size: 30px;
   color: white;
   line-height: 30px;
+  align-content: center;
 
 }
 .description {
@@ -76,8 +77,8 @@ body {
   /* background: radial-gradient(circle, transparent 0%, rgba(0, 0, 0, 0.5) 100%); */
   width:30%; 
  padding:20px;
-  margin:50px;
-  left:30px;
+  margin:30px;
+  right:65%;
 
   z-index: 4;
   border-radius: 25px;
@@ -91,10 +92,23 @@ body {
   /* background: radial-gradient(circle, transparent 0%, rgba(0, 0, 0, 0.5) 100%); */
   width:30%; 
   height:auto; 
-padding:20px;
-  margin:50px;
+  padding:20px;
+  margin:30px;
   border-radius: 25px;
-  left:35%;
+  left:34%;
+}
+
+.videoBox{
+
+  position: absolute;
+  background-color:rgba(0,0,0,0.4);
+  /* background: radial-gradient(circle, transparent 0%, rgba(0, 0, 0, 0.5) 100%); */
+  width:30%; 
+  height:auto; 
+  padding:20px;
+  margin:30px;
+  border-radius: 25px;
+  left:67%;
 }
 
 .prismText{

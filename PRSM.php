@@ -17,10 +17,8 @@
               It explores the integration of soft-touch fabric interfaces using four touch pads that 
               trigger a variety of soothing mediative visuals projected through a glass-octagon shaped plant 
               box. P.R.S.M is meant to help relieve stress while working on stressful inducing tasks at the 
-              desk at work or their own intimate work spaces at home. Because the touch pad is soft and portable, 
-              P.R.S.M can be used anywhere where the user sees fit. This could be at their desk, the couch or the 
-              bed while working on their laptop while the plant projected box sits on the workstation itself, a small 
-              coffee table or night stand close by. </p>
+              desk at work or their own intimate work spaces at home like the bed or couch. Because the touch pad is soft and portable, 
+              P.R.S.M can be used anywhere where the user sees fit. </p>
       </div>
 
     
@@ -30,16 +28,23 @@
           <li data-target="#P_image" data-slide-to="0" class="active"></li>
           <li data-target="#P_image" data-slide-to="1"></li>
           <li data-target="#P_image" data-slide-to="2"></li>
+          <li data-target="#P_image" data-slide-to="3"></li>
+
           </ol>
-              <div class="carousel-inner d-flex align-items-center">
-                <div class="carousel-item active">
-                    <img class="d-block " src="PrismPic.jpg" width="100%" style="border-radius:25px" alt="First slide">
+          <p class="prismHead"> Gallery </p>
+
+<div class="carousel-inner d-flex align-items-center">
+<div class="carousel-item active" style="padding-left:80px">
+                    <img class="d-block " src="PrismPic.jpg" width="80%" style="border-radius:25px" alt="First slide">
                </div>
-                   <div class="carousel-item">
-                    <img class="d-block " src="PrismPic.jpg"  width="100%" style="border-radius:25px" alt="Second slide">
+                   <div class="carousel-item" style="padding-left:50px">
+                    <img class="d-block " src="PrismPic2.jpg"  width="85%" style="border-radius:25px" alt="Second slide">
                     </div>
                     <div class="carousel-item">
-                    <img class="d-block " src="PrismPic.jpg"  width="100%" style="border-radius:25px" alt="Third slide">
+                    <img class="d-block " src="PrismPic3.jpg"  width="100%" style="border-radius:25px" alt="Third slide">
+                    </div>
+                    <div class="carousel-item">
+                    <img class="d-block " src="PrismPic4.jpg"  width="100%" style="border-radius:25px" alt="Third slide">
                     </div>
                    </div>
              <a class="carousel-control-prev" href="#P_image" role="button" data-slide="prev">
@@ -50,7 +55,16 @@
               <span class="carousel-control-next-icon" aria-hidden="true"></span>
               <span class="sr-only">Next</span>
               </a>
-  </div>
+</div>
+</div>
+
+<div class="col-3 col-12 videoBox" style="padding-left:120px">
+<p class="prismHead"style="right:85%"> Video </p>
+
+<video autoplay muted loop  style="width:200px; border-radius:25px"> 
+
+  <source src="video/PRSM.MOV" type="video/mp4">
+</video>
 </div>
 
 </div>

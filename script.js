@@ -5,7 +5,7 @@ function reveal(e) {
     e.preventDefault();
         
     var id = $(this).attr("href");
-    $(id).show();
+    $(id).fadeIn(3000);
     $(id).siblings().hide();
 
 
@@ -19,10 +19,9 @@ function start()
 {
 
         $(".navigation a:first").click();
-        // $(".carousel").carousel();
 
 }
-
+//JS FOR CONTROLLING THE NAV BAR 
 $(function() {
     var navCarousel = $("#navCarousel")
      
@@ -40,25 +39,4 @@ $(function() {
  
     } )
      
-
-     
-    // Simulate physical button click effect
-    $('.nav > button').click( function( e ) {
-    var b = $(e.target).addClass( 'down' )
-    setTimeout( function() { b.removeClass( 'down' ) }, 80 )
-    } )
-     
-    $(document).keydown( function( e ) {
-     
-    switch( e.keyCode ) {
-    /* left arrow */
-    case 37:
-    $('.nav > .left').click()
-    break
-     
-    /* right arrow */
-    case 39:
-    $('.nav > .right').click()
-    }
-    })
     })
