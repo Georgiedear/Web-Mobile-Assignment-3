@@ -1,16 +1,64 @@
 
   <head>
-  
+  <?include "head.php"?>
+
 <link href="PRSM.css" rel="stylesheet">
+
     <title>Georgina Yeboah: Three Worlds</title>
 
   </head>
 <body>
+<div class="container">
+  <div class="row">
+
+    <div class=" col-12 description">
+      <h1 class="prismHead"> Introducing P.R.S.M </h1>
+            <p class="PrismText"> P.R.S.M stands for Personal Reactive Soft-sensory Mechanics. 
+              It explores the integration of soft-touch fabric interfaces using four touch pads that 
+              trigger a variety of soothing mediative visuals projected through a glass-octagon shaped plant 
+              box. P.R.S.M is meant to help relieve stress while working on stressful inducing tasks at the 
+              desk at work or their own intimate work spaces at home. Because the touch pad is soft and portable, 
+              P.R.S.M can be used anywhere where the user sees fit. This could be at their desk, the couch or the 
+              bed while working on their laptop while the plant projected box sits on the workstation itself, a small 
+              coffee table or night stand close by. </p>
+      </div>
+
+    
+<div class="col-3 col-6 imageSlide" style="right:300px">
+    <div id="P_image" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#P_image" data-slide-to="0" class="active"></li>
+          <li data-target="#P_image" data-slide-to="1"></li>
+          <li data-target="#P_image" data-slide-to="2"></li>
+          </ol>
+              <div class="carousel-inner d-flex align-items-center">
+                <div class="carousel-item active">
+                    <img class="d-block " src="PrismPic.jpg" width="100%" style="border-radius:25px" alt="First slide">
+               </div>
+                   <div class="carousel-item">
+                    <img class="d-block " src="PrismPic.jpg"  width="100%" style="border-radius:25px" alt="Second slide">
+                    </div>
+                    <div class="carousel-item">
+                    <img class="d-block " src="PrismPic.jpg"  width="100%" style="border-radius:25px" alt="Third slide">
+                    </div>
+                   </div>
+             <a class="carousel-control-prev" href="#P_image" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+             </a>
+             <a class="carousel-control-next" href="#P_image" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+  </div>
+</div>
+
+</div>
+</div>  
 
 
-<div class="overlay"></div> 
-<div class="PrismContainer">
- 
+<div class="PrismContainer" style="opacity:0.5">
+
 <!-- 
 <div class="container">
   <div class=row>
@@ -19,5 +67,9 @@
 </div> -->
 
 <? include "PRSMBackground.php"?>
+<div class="overlay"></div> 
+
 </div>
+
+
 </body>

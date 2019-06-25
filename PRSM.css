@@ -1,15 +1,18 @@
 /* THE FOLLOWING CSS CODE IS A SNIPPET FROM INFINITE SVG TRIANGLE FUSION BY ROB DiMAARZO CUSTOMISED 
 ADDED BY ME  -->
-<!-- https://freefrontend.com/css-animated-backgrounds/ */
+<!-- https://codepen.io/robdimarzo/pen/VqjvqR/ */
 body {
   margin: 0;
   width: 100%;
   height: 100%;
   position: relative;
+  overflow: scroll;
+  
+
 }
 
 .overlay {
-  width: 100%;
+  width: 150%;
   height: 100%;
   position: absolute;
   top: 0.01%;
@@ -19,7 +22,7 @@ body {
   background: radial-gradient(circle, transparent 0%, rgba(255, 251, 251, 0.85) 100%);
 }
 /* rgba(255, 251, 251, 0.85) 100%) */
-
+/* 
  @media (min-width: 576px)  { 
 
   .overlay {
@@ -33,15 +36,9 @@ body {
     background: radial-gradient(circle, transparent 0%, rgba(255, 251, 251, 0.85) 100%);
   }
 
-}
-
-.PDiv {
-
-  width:400px;
-  height: auto;
+} */
 
 
-}
 
 .PrismContainer {
   position:absolute;
@@ -65,11 +62,66 @@ body {
 
 }
 
-/* #reveal_box {
-margin-left: -45px;
-margin-right: -45px;
+.prismHead {
 
-} */
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 30px;
+  color: white;
+  line-height: 30px;
+
+}
+.description {
+  position: absolute;
+  background-color:rgba(0,0,0,0.4);
+  /* background: radial-gradient(circle, transparent 0%, rgba(0, 0, 0, 0.5) 100%); */
+  width:30%; 
+ padding:20px;
+  margin:50px;
+  left:30px;
+
+  z-index: 4;
+  border-radius: 25px;
+
+}
+
+.imageSlide{
+
+  position: absolute;
+  background-color:rgba(0,0,0,0.4);
+  /* background: radial-gradient(circle, transparent 0%, rgba(0, 0, 0, 0.5) 100%); */
+  width:30%; 
+  height:auto; 
+padding:20px;
+  margin:50px;
+  border-radius: 25px;
+  left:35%;
+}
+
+.prismText{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 18px;
+  color: white;
+  line-height: 30px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* THE FOLLOWING SNIPPET MAKES THE TRIANGLES. */
 .shape:nth-child(11) {
   transform: translate(-50%, -25%);
   

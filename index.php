@@ -1,32 +1,16 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <?include "head.php"?>
+  <link href="nav.css" rel="stylesheet">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
-        <!-- JavaScript -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-
-        <!-- Custom JavaScript -->
-    <script src="script.js"> </script>
-
-    <!-- Isotope Plugin -->
-    <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
-
-    <title>Georgina Yeboah: Three Worlds</title>
   </head>
   <body>
 
 <div class="container">
         <div class="col-12" style="background-color:#fff; padding-top:10px;padding-bottom:20px; text-align:center ">
                 <h1> Three Worlds </h1>
-                <h6 style="padding-top:5px"> The Three Recent Interactive Installations by Georgina Yeboah </h6>
+                <h6 style="padding-top:5px"> Discover and Explore the following three Interactive Installations by Georgina Yeboah </h6>
 
         </div>
        
@@ -34,22 +18,30 @@
         
         <div style="margin-left: -5px">
         <!-- WILL TRANSITION BETWEEN BACKGROUNDS AND CHANGE DIVS BY INSTALLATION BUTTON -->
-            <div class= "navigation d-flex justify-content-center" style="padding-bottom:30px">
-                <div style="margin-right:30px; margin-left:20px">
+            <div class= "navigation d-flex justify-content-center" id="navCarousel" style="padding-bottom: 150px; padding-top: 5px; position: relative; overflow: visible;">
+            
+                <div class="cloud9-item" style="  position: absolute; transform-origin: 0px 50px; z-index: 100; transform: translate(654px, 209.4px) scale(1)">
                 <a href="#PRISMPage"> <img src="PRSM_Button_Primary" title="PRISM BUTTON" width="90%"alt="Button1"><h5 style="text-align:center; padding-right:15px; padding-top:8px"> PRSM </h5> </a> 
                 </div>
 
-                <div style="margin-right:30px; margin-left:30px">
+                <div  class="cloud9-item" style=" position: absolute; transform-origin: 0px 50px; z-index: 62; transform: translate(316.745px, 198.9px) scale(0.625)">
                 <a href="#OneThousandPage"> <img src="1000_Button_Primary" style="padding-left:20px" title="1000DreamsOrMore BUTTON" width="75%" alt="Button2"> <h5 style="text-align:center; padding-top:8px"> 1000 Dreams Or More </h5> </a>
                 </div>
 
-                <div style="margin-left:30px; margin-right:20px">
+                <div  class="cloud9-item" style=" position: absolute; transform-origin: 0px 50px; z-index: 62; transform: translate(1015.13px, 198.9px) scale(0.625)">
                 <a href="#SequenciaPage"> <img src="Seq_Button_Primary" title="SEQUENCIA BUTTON"  width="90%" alt="Button3"><h5 style="text-align:center; padding-top:10px"> SEQUENCIA </h5> </a>
                 </div>
 
 
             </div>
-
+            <!-- <div id="buttons">
+  <button class="left">
+    ←
+  </button>
+  <button class="right">
+    →
+  </button>
+</div> -->
             <div id="reveal_box">
 
                 <div id="PRISMPage">

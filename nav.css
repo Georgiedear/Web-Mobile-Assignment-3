@@ -1,0 +1,8 @@
+body {
+width:100%;
+
+}
+#navCarousel .cloud9-item {
+    cursor: pointer;
+left:10px;   
+  }
