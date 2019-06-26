@@ -77,9 +77,8 @@ body {
   /* background: radial-gradient(circle, transparent 0%, rgba(0, 0, 0, 0.5) 100%); */
   width:30%; 
  padding:20px;
-  margin:30px;
+  margin:20px;
   right:65%;
-
   z-index: 4;
   border-radius: 25px;
 
@@ -113,7 +112,7 @@ body {
 
 .prismText{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 18px;
+  font-size: 17px;
   color: white;
   line-height: 30px;
 

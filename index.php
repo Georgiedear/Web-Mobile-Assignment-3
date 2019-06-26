@@ -10,7 +10,7 @@
 <div class="container">
         <div class="col-12" style="background-color:#fff; padding-top:10px;padding-bottom:20px; text-align:center ">
                 <h1> Three Worlds </h1>
-                <h6 style="padding-top:5px"> Discover and Explore the following three Interactive Installations by Georgina Yeboah </h6>
+                <h6 style="padding-top:5px"> Discover and Explore the Following Three Interactive Installations by Georgina Yeboah </h6>
 
         </div>
        
