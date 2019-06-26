@@ -18,14 +18,15 @@
 
         </div>
 
-        <div class="col-6 my-5" style="position: relative; left:85%">
+        <div class="col-6" style="position: relative; left:90%">
 
     <div id ="layout" data-isotope>
-    <img src = "" class ="box wide">
-    <img src = "" class ="box right">
-
-        <img src = "" class ="box ">
-    <img src = "" class ="box wide">
+    <div style ="background-image: url(img/1000DreamsOrMore1.png)" class ="box wide"> </div>
+    <div style ="background-image: url(img/1000DreamsOrMore3.png)" class ="box right"> </div>
+    <div style ="background-image: url(img/1000DreamsOrMore5.png)" class ="box"> </div>
+    <div style ="background-image: url(img/1000DreamsOrMore6.png)" class ="box"> </div>
+    <div style ="background-image: url(img/1000DreamsOrMore2.png)" class ="box"> </div>
+    <div style ="background-image: url(img/1000DreamsOrMore4.png)" class ="box wide"></div>
    
         
 

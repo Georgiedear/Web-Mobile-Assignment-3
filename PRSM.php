@@ -41,13 +41,13 @@
                     <img class="d-block " src="PrismPic.jpg" width="80%" style="border-radius:25px" alt="First slide">
                </div>
                    <div class="carousel-item" style="padding-left:50px">
-                    <img class="d-block " src="PrismPic2.jpg"  width="85%" style="border-radius:25px" alt="Second slide">
+                    <img class="d-block " src="img/PrismPic2.jpg"  width="85%" style="border-radius:25px" alt="Second slide">
                     </div>
                     <div class="carousel-item">
-                    <img class="d-block " src="PrismPic3.jpg"  width="100%" style="border-radius:25px" alt="Third slide">
+                    <img class="d-block " src="img/PrismPic3.jpg"  width="100%" style="border-radius:25px" alt="Third slide">
                     </div>
                     <div class="carousel-item">
-                    <img class="d-block " src="PrismPic4.jpg"  width="100%" style="border-radius:25px" alt="Third slide">
+                    <img class="d-block " src="img/PrismPic4.jpg"  width="100%" style="border-radius:25px" alt="Third slide">
                     </div>
                    </div>
              <a class="carousel-control-prev" href="#P_image" role="button" data-slide="prev">

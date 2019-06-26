@@ -21,15 +21,15 @@
             <div class= "navigation d-flex justify-content-center" id="navCarousel" style="padding-bottom: 150px; padding-top: 5px; position: relative; overflow: visible;">
             
                 <div class="cloud9-item" style="  position: absolute; transform-origin: 0px 50px; z-index: 100; transform: translate(654px, 209.4px) scale(1)">
-                <a href="#PRISMPage"> <img src="PRSM_Button_Primary" title="PRISM BUTTON" width="90%"alt="Button1"><h5 style="text-align:center; padding-right:15px; padding-top:8px"> PRSM </h5> </a> 
+                <a href="#PRISMPage"> <img src="buttons/PRSM_Button_Primary" title="PRISM BUTTON" width="90%"alt="Button1"><h5 style="text-align:center; padding-right:15px; padding-top:8px"> PRSM </h5> </a> 
                 </div>
 
                 <div  class="cloud9-item" style=" position: absolute; transform-origin: 0px 50px; z-index: 62; transform: translate(316.745px, 198.9px) scale(0.625)">
-                <a href="#OneThousandPage"> <img src="1000_Button_Primary" style="padding-left:20px" title="1000DreamsOrMore BUTTON" width="75%" alt="Button2"> <h5 style="text-align:center; padding-top:8px"> 1000 Dreams Or More </h5> </a>
+                <a href="#OneThousandPage"> <img src="buttons/1000_Button_Primary" style="padding-left:20px" title="1000DreamsOrMore BUTTON" width="75%" alt="Button2"> <h5 style="text-align:center; padding-top:8px"> 1000 Dreams Or More </h5> </a>
                 </div>
 
                 <div  class="cloud9-item" style=" position: absolute; transform-origin: 0px 50px; z-index: 62; transform: translate(1015.13px, 198.9px) scale(0.625)">
-                <a href="#SequenciaPage"> <img src="Seq_Button_Primary" title="SEQUENCIA BUTTON"  width="90%" alt="Button3"><h5 style="text-align:center; padding-top:10px"> SEQUENCIA </h5> </a>
+                <a href="#SequenciaPage"> <img src="buttons/Seq_Button_Primary" title="SEQUENCIA BUTTON"  width="90%" alt="Button3"><h5 style="text-align:center; padding-top:10px"> SEQUENCIA </h5> </a>
                 </div>
 
 
