@@ -1,5 +1,5 @@
 body {
-    width:70%;
+    width:63%;
     background-color: black;
 
   }
@@ -10,6 +10,7 @@ body {
       width:50%;
       padding-bottom:45%;
       background-color: rgb(28, 95, 241);
+      border:5px solid #000;
       background-size: cover;
   
   }
@@ -19,6 +20,7 @@ body {
   {
       padding-bottom:25%;
       background-color: rgb(95, 8, 114);
+      border:5px solid #000;
       background-size: cover;
   }
   
@@ -28,10 +30,11 @@ body {
     padding-right:30%;
     background-color: rgb(37, 155, 223); 
     background-size: cover;
+    border:5px solid #000;
+
 
   }
   
-
   .description {
     position: absolute;
     background-color:rgba(0,0,0,0.4);
@@ -51,7 +54,24 @@ body {
     color: white;
     line-height: 30px;
     align-content: center;
-  
+  }
+
+  .dreamsText{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+    color: rgba(255,255,255,0.7);
+    line-height: 30px;
+  }
+
+  .videoBox{
+
+    position: absolute;
+    width:40%; 
+    height:auto; 
+    padding:20px;
+    margin:30px;
+    left:27%;
+    right:65%;
   }
 
   /*  THE FOLLOWING CSS CODE IS FROM CSS FIREFLIES BY MIKE GOLUS ADDED AND CUSTOMISED BY ME https://codepen.io/mikegolus/pen/Jegvym */

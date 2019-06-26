@@ -11,7 +11,7 @@
 <div class="row">
 
     <div class=" col-12 description">
-      <h1 class="prismHead"> Introducing P.R.S.M </h1>
+      <h1 class="prismHead"> Introducing P.R.S.M (2019)  </h1>
             <p class="PrismText"> P.R.S.M stands for Personal Reactive Soft-sensory Mechanics. 
               P.R.S.M explores the integration of soft-touch fabric interfaces with the use of 
               four touch pads that trigger a variety of soothing mediative visuals projected 
