@@ -1,5 +1,3 @@
-/* THE FOLLOWING CSS CODE IS FROM PURSE CSS3 GRADIENT BACKGROUND ANIMATION BY MANUEL PINTO CUSTOMISED 
-ADDED BY ME https://codepen.io/P1N2O/pen/pyBNzX */
 
 body {
 	width: 100wh;
@@ -13,6 +11,55 @@ body {
 	animation: Gradient 15s ease infinite;
 }
 
+
+.seqHead {
+
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 30px;
+	color: white;
+	line-height: 30px;
+	align-content: center;
+  
+  }
+
+
+.description {
+	position: absolute;
+	background-color:rgba(0,0,0,0.4);
+    background: radial-gradient(circle, transparent 0%, rgba(255, 255, 255, 0.5) 100%); 
+	width:30%; 
+    padding:20px;
+	margin:20px;
+	right:65%;
+	z-index: 4;
+	border-radius: 25px;
+  
+  }
+
+  .seqText{
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 17px;
+	color: white;
+	line-height: 30px;
+  }
+  
+  .videoBox{
+
+	position: absolute;
+	background-color:rgba(0,0,0,0.4);
+ background: radial-gradient(circle, transparent 0%, rgba(255, 255, 255, 0.5) 100%);
+	width:auto; 
+	height:auto; 
+	padding:20px;
+	margin:30px;
+	border-radius: 25px;
+	left:45%;
+  }
+
+
+
+/* THE FOLLOWING CSS CODE ALONG WITH THE CODE IN TH BODY SECTION IS FROM PURSE CSS3 GRADIENT BACKGROUND ANIMATION BY MANUEL PINTO CUSTOMISED 
+ADDED BY ME https://codepen.io/P1N2O/pen/pyBNzX */
 @-webkit-keyframes Gradient {
 	0% {
 		background-position: 0% 50%
