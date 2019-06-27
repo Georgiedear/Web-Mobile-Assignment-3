@@ -1,3 +1,6 @@
+// THIS IS THE CLOUD 9 CAROUSEL IM USING FOR THE NAV BAR. 
+// HERE IS THEIR GITHUB: https://github.com/specious/cloud9carousel
+
 /*
  * Cloud 9 Carousel 2.0
  *   Cleaned up, refactored, and improved version of CloudCarousel

@@ -1,5 +1,5 @@
 /* THE FOLLOWING CSS CODE IS A SNIPPET FROM INFINITE SVG TRIANGLE FUSION BY ROB DiMAARZO CUSTOMISED 
-ADDED BY ME  -->
+ADDED BY ME. CLASSES DONE BY ME: prismHead, description, imageSlide, videoBox and prismText  -->
 <!-- https://codepen.io/robdimarzo/pen/VqjvqR/ */
 body {
   margin: 0;
@@ -21,23 +21,6 @@ body {
   z-index: 2;
   background: radial-gradient(circle, transparent 0%, rgba(255, 251, 251, 0.85) 100%);
 }
-/* rgba(255, 251, 251, 0.85) 100%) */
-/* 
- @media (min-width: 576px)  { 
-
-  .overlay {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0.01%;
-    right: 5%;
-    left: 0;
-    z-index: 2;
-    background: radial-gradient(circle, transparent 0%, rgba(255, 251, 251, 0.85) 100%);
-  }
-
-} */
-
 
 
 .PrismContainer {

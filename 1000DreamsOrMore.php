@@ -13,8 +13,9 @@
           <h1 class="dreamsHeadText"> 1000 Dreams Or More (2015)</h1>
           <p class="dreamsText"> 1000 Dreams or more (2015) is an interactive installation that collected 
             and projected users' wishes in real time. The keywords in each wish entered
-            would be categorized as either a spirtual wish (blue), a materialized wish (pink) or a wish concenring 
-            someone else. Other wishes entered that did not match any of the three categories would be displayed as 
+            would be categorized as either a spirtual wish (blue orbs), a materialized wish (pink orbs) or a wish concenring 
+            someone else (purple orbs). Orb sizes depnded on the likely hood of a wish coming true. 
+            Other wishes entered that did not match any of the three categories would be displayed as 
             a white translucent orb with tinted colours. Each wish entered was accompanied by a poem, 
             describing the nature of the user's wish, later to vanish, leaving the wish to float among the other wishes
             entered before it. 

@@ -3,7 +3,7 @@ $(document).on("click", ".navigation a", reveal);
 function reveal(e) {
 
     e.preventDefault();
-        
+     //THIS FADE IN LASTS FOR 3 SECONDS AFTER A MENU BUTTON HAS BEEN CLICKED ON   
     var id = $(this).attr("href");
     $(id).fadeIn(3000);
     $(id).siblings().hide();
@@ -21,7 +21,7 @@ function start()
         $(".navigation a:first").click();
 
 }
-//JS FOR CONTROLLING THE NAV BAR 
+//JS FOR CONTROLLING THE NAV BAR'S BEHAVIOUR
 $(function() {
     var navCarousel = $("#navCarousel")
      
