@@ -61,10 +61,10 @@
     </div>
     </div>
 
-    <div class="col-3 col-12 videoBox" style="padding-left:120px">
-    <p class="prismHead"style="padding-right:85%"> Video </p>
+    <div class="col-6 videoBox">
+    <p class="prismHead"style="right:25%"> Video </p>
 
-    <video autoplay muted loop  style="width:200px; border-radius:25px"> 
+    <video autoplay muted loop  style="width:50%; border-radius:25px; margin-left:20%"> 
 
     <source src="video/PRSM.MOV" type="video/mp4">
     </video>

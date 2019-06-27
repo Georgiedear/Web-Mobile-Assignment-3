@@ -25,19 +25,18 @@
 
           </p>
           </div>
-<div class="col-6 videoBox">
+    <div class="col-6 videoBox">
+            <iframe src="https://player.vimeo.com/video/93392877" width="640" height="360" 
+              frameborder="0" style="radius-border:25px" allow="autoplay; fullscreen" 
+              allowfullscreen></iframe>
+  </div>
 
-<iframe src="https://player.vimeo.com/video/93392877" 
-  width="640" height="360" frameborder="0" style="radius-border:25px" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-<div class="col-8 description" style="left:55%; top:70%; padding:10px">
-<p class="seqText"> 
-  Click play on the vimeo video and watch Sequencia unfold!
-</p>
-</div>
+  <div class="col-8 description" style="left:55%; top:70%; padding:10px">
+          <p class="seqText"> Click play on the vimeo video and watch Sequencia unfold!</p>
+  </div>
 
     </div>
-      </div>
+   </div>
 
   </body>
   

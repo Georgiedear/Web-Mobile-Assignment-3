@@ -8,7 +8,7 @@
   <body>
 
 <div class="container">
-        <div class="col-12" style="background-color:#fff; padding-top:10px;padding-bottom:20px; text-align:center ">
+        <div class="col-12" style="background-color:#fff; padding-top:10px;padding-bottom:20px; text-align:center; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ">
                 <h1> Three Worlds </h1>
                 <h6 style="padding-top:5px"> Discover and Explore the Following Three Interactive Installations by Georgina Yeboah </h6>
 
@@ -34,14 +34,7 @@
 
 
             </div>
-            <!-- <div id="buttons">
-  <button class="left">
-    ←
-  </button>
-  <button class="right">
-    →
-  </button>
-</div> -->
+  
             <div id="reveal_box">
 
                 <div id="PRISMPage">
@@ -64,20 +57,18 @@
             </div>
 
             <div class="container footer">
-<div style = "background: #fff">
+              <div style = "background: #fff">
 
-    <div style="text-align:center">
-    <p> GGY Copyright 2019 </p>
-    </div>
+                    <div style="text-align:center">
+                    <p> GGY Copyright 2019 </p>
+                    </div>
 
 
+              </div>
+            </div>
+
+  </div>
 </div>
-</div>
-
-        </div>
-
-</div>
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     
   </body>
 </html>
