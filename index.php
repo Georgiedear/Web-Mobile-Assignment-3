@@ -21,7 +21,7 @@
             <div class= "navigation d-flex justify-content-center" id="navCarousel" style="padding-bottom: 150px; padding-top: 5px; position: relative; overflow: visible;">
             
                 <div class="cloud9-item" style="  position: absolute; transform-origin: 0px 50px; z-index: 100; transform: translate(654px, 209.4px) scale(1)">
-                <a href="#PRISMPage"> <img src="buttons/PRSM_Button_Primary" title="PRISM BUTTON" width="90%"alt="Button1"><h5 style="text-align:center; padding-right:15px; padding-top:8px"> PRSM </h5> </a> 
+                <a href="#PRISMPage"> <img src="buttons/PRSM_Button_Primary" title="PRISM BUTTON" width="90%"alt="Button1"><h5 style="text-align:center; padding-right:15px; padding-top:8px"> P.R.S.M </h5> </a> 
                 </div>
 
                 <div  class="cloud9-item" style=" position: absolute; transform-origin: 0px 50px; z-index: 62; transform: translate(316.745px, 198.9px) scale(0.625)">
