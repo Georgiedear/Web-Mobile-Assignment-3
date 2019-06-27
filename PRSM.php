@@ -16,9 +16,10 @@
               P.R.S.M explores the integration of soft-touch fabric interfaces with the use of 
               four touch pads that trigger a variety of soothing mediative visuals projected 
               through a glass-octagon shaped plant box. P.R.S.M is meant to help relieve stress 
-              while working on stressful inducing tasks at thedesk or at home. The system uses 
-              conductive fabric and thread, velostat sheets, 
-              a mini projector and the flora. Because the touch pad is soft and portable, P.R.S.M 
+              while working on stressful inducing tasks at the desk or at home. The system uses procesing
+              and arduino IDE software. The soft-touch pad itself uses 
+              conductive and non conductive fabric and thread, velostat sheets, 
+              a mini projector and the flora, a micro-controller. Because the touch pad is soft and portable, P.R.S.M 
               can be used anywhere where the user sees fit. As long as the box is resting nearby, users can 
               enjoy this soft sensory visual experince from their desk, the couch or their bed. </p>
       </div>
@@ -32,6 +33,7 @@
           <li data-target="#P_image" data-slide-to="1"></li>
           <li data-target="#P_image" data-slide-to="2"></li>
           <li data-target="#P_image" data-slide-to="3"></li>
+          <li data-target="#P_image" data-slide-to="4"></li>
           </ol>
 
           <p class="prismHead"> Gallery </p>
@@ -48,6 +50,12 @@
                     </div>
                     <div class="carousel-item">
                     <img class="d-block " src="img/PrismPic4.jpg"  width="100%" style="border-radius:25px" alt="Third slide">
+                    </div>
+                    <div class="carousel-item">
+                    <img class="d-block " src="img/PrismPic5.jpg"  width="100%" style="border-radius:25px" alt="Third slide">
+                    </div>
+                    <div class="carousel-item">
+                    <img class="d-block " src="img/PrismPic6.jpg"  width="100%" style="border-radius:25px" alt="Third slide">
                     </div>
                    </div>
              <a class="carousel-control-prev" href="#P_image" role="button" data-slide="prev">

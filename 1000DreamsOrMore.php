@@ -21,7 +21,7 @@
             entered before it. 
               <br>
             1000 Dreams or More was inspired by my feelings of uncertanity and not knowing what lied ahead in my
-            future endeavors. Creating this piece helped me find solace knowing that we all don't know what lies
+            future endeavors. Creating this piece helped me find solace in knowing that we all don't know what lies
             ahead but we can all continue to hope and dream. 
           </p>
           </div>
